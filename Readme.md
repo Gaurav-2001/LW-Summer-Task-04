@@ -60,9 +60,9 @@ It stands for Open Source Computer Vision Library. This library consists of arou
 ## ***Thankyou For Reading***
 
 ## Team Members
-[Nehal Ingole](https://www.linkedin.com/in/nehal-ingole/)
-[Omkar Patil](https://www.linkedin.com/in/omkar-patil-213a0a193/)
-[Nivedita Shinde](https://www.linkedin.com/in/nivedita-shinde-75aa5a1a5/)
-[Gracy Yadav]()
+[Nehal Ingole](https://www.linkedin.com/in/nehal-ingole/)</br>
+[Omkar Patil](https://www.linkedin.com/in/omkar-patil-213a0a193/)</br>
+[Nivedita Shinde](https://www.linkedin.com/in/nivedita-shinde-75aa5a1a5/)</br>
+[Gracy Yadav]()</br>
 
 Any query and suggestion are always welcome- [Gaurav Pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)
